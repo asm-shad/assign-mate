@@ -8,7 +8,7 @@ The purpose of this project is to demonstrate the ability to develop a full-stac
 
 ## Live URL
 
-[AssignMate: ](https://assign-mate-f36ad.web.app/)
+[AssignMate](https://assign-mate-f36ad.web.app/)
 
 ## Key Features
 
