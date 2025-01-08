@@ -1,0 +1,6 @@
+[submodule "assign-mate-client"]
+	path = assign-mate-client
+	url = https://github.com/programming-hero-web-course2/b10a11-client-side-asm-shad.git
+[submodule "assign-mate-server"]
+	path = assign-mate-server
+	url = https://github.com/programming-hero-web-course2/b10a11-server-side-asm-shad.git
